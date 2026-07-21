@@ -1,0 +1,19 @@
+# STRING FUNCTIONS ->123456789009876542134575345678654345677123456789876543234568987653234567887654322345678987654324567876543345678987654334568653223456
+
+a = "yashvi"
+print(a.endswith("hvi"))
+
+b = "hello"
+print(b.capitalize())
+
+c = "she is so careless"
+print(c.replace("careless","careful"))
+
+d = "what a amazing picture"
+print(d.find("amazing"))
+
+e = "let's go to play!"
+print(e.count("l"))
+
+F = "12345678900098765321234567896543123459942797447886555784938765r6782432538958746354346756453232563543623578785678787"
+print(F.count("67"))
