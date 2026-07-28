@@ -1,0 +1,30 @@
+Start
+   │
+Choose a random word
+   │
+Show _ _ _ _ _
+   │
+Player guesses a letter
+   │
+ ┌───────────────┐
+ │Letter correct?│
+ └──────┬────────┘
+        │
+   Yes  │  No
+        │
+Reveal letters   Lose 1 life
+        │
+        ▼
+All letters found?
+        │
+   Yes ─► You Win 🎉
+        │
+   No
+        │
+Lives = 0?
+        │
+   Yes ─► Game Over 💀
+        │
+   No
+        │
+Guess again
